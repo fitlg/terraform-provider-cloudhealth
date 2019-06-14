@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/fitlg/terraform-provider-cloudhealth/cloudhealth"
 	"github.com/hashicorp/terraform/plugin"
-	"github.com/nextgenhealthcare/terraform-provider-cloudhealth/cloudhealth"
 )
 
 func main() {
